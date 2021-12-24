@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+#Disallow: /super-secret-directory/
+#Disallow: /not-a-secret/but-this-is-secret/
+
+Sitemap: https://www.thebrighthumans.com/sitemap.xml  
+
+
+# IF YOU WANT CERTAIN CRAWLER TO INDEX OUR SITE
+#User-agent: Googlebot
+#Allow: /
+
+#User-agent: msnbot
+#Disallow: /
